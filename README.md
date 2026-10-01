@@ -1,4 +1,4 @@
-# Awesome n8n Automation Templates
+# n8n Automation Template
 
 > A curated collection of reusable n8n workflow templates for email automation, AI assistants, WhatsApp, Telegram, HR/recruitment, sales enablement, social media, and multi-channel messaging. Review, configure, and test each workflow before production use.
 
